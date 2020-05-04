@@ -1,0 +1,15 @@
+.TodoList {
+  margin: auto;
+  width: 90%;
+  margin-top: 40px;
+
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.2);
+  border: 0px;
+  border-radius: 0.5rem;
+}
+
+@media (min-width: 500px) {
+  .TodoList {
+    width: 50%;
+  }
+}

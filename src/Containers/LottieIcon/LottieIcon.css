@@ -1,0 +1,10 @@
+.icon {
+  width: 100%;
+}
+
+@media (min-width: 400px) {
+  .icon {
+    width: 5%;
+    margin: auto;
+  }
+}
